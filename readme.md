@@ -8,6 +8,7 @@ The idea behind the platform is to reduce the spread of counterfeit medicines in
 
 The platform focuses on simplicity, Arabic RTL usability, and mobile-first interaction so that any user can use it easily.
 
+Live: https://health-record-keeper--husseinabutaleb.replit.app/
 ---
 
 # Main Features
