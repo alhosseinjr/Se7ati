@@ -1,4 +1,4 @@
-# Sehati (صحتي)
+# Sehati (صحتي) "Just MVP and not final version"
 
 ## Project Overview
 
